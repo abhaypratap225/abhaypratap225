@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **abhaypratap225/abhaypratap225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,5 +10,12 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I love to learn ...
 -->
+
+##👋 Hi there, I’m @abhaypratap225
+- 🔭 I’m currently working to develop full stack Website for my own business
+- 👀 I’m interested in Problem Solving, Web Development, Video Editing / VFX
+- 🌱 I’m currently learning Backend Development under MERN Stack
+- 📫 How to reach me: abhaypratap.de@gmail.com
+- ⚡ Fun fact: I Love to Learn
